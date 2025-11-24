@@ -1,6 +1,6 @@
 Python scripts for "Volatile but persistent co-existence of 
 						self-compatibility and self-incompatibility"
-						Amit Jangid
+	    Amit Jangid, Ohad Noy Feldheim, Tamar Friedlander
 								
 ############################################################################
 
