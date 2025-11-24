@@ -1,6 +1,6 @@
 Research Article:
 "Volatile but persistent co-existence of self-compatibility and self-incompatibility"
-Amit Jangid, Ohad Noy Feldheim, Tamar Friedlander
+Amit Jangid, Ohad Noy Feldheim, and Tamar Friedlander
 
 Amit Jangid
 ############################################################################
